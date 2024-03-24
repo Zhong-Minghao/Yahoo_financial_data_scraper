@@ -69,6 +69,7 @@ The output workbook for each stock will contain eight sheets: Summary, Profile, 
 ## Author
 
 [Theodore Charts](https://www.linkedin.com/in/tedcharts/)
+[Zhong Minghao](https://www.linkedin.com/in/minghao-zhong-ba8062286/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
