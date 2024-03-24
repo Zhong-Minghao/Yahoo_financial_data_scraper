@@ -1,4 +1,8 @@
 # yahoo_finance_data_scrape
+
+This is the latest update version of yahoo_finance_data_scrape from https://github.com/TedCha/yahoo_finance_scraper. I update some unvalid xpath and remove some bug.
+The NASDAQ data is collect from https://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs.
+
 Python application that allows you to pass in a file that has stock tickers on each line and receive an XLSX output for each company that includes Summary, Profile, Income Statement, Balance Sheet, Cash Flow, Valuation Measures, Financial Highlights, and Trading Information data.
 
 The data is scraped from:
